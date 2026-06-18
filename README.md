@@ -1,8 +1,6 @@
 ﻿# AutoRecEngine
 
-🎬
-
-A movie recommendation system powered by **Deep Autoencoders** to learn latent user preferences and generate personalized movie recommendations.
+🎬A movie recommendation system powered by **Deep Autoencoders** to learn latent user preferences and generate personalized movie recommendations.
 
 ## 🚀 Overview
 
