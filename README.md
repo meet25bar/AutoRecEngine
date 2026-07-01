@@ -67,7 +67,6 @@ python train.py
 Train the Autoencoder model on user-movie rating data and save the learned weights for future recommendations.
 
 ## 🎯 Generate Recommendations
-
 ```bash
 python recommend.py
 ```
@@ -75,7 +74,6 @@ python recommend.py
 Generate personalized movie recommendations for users based on the trained Autoencoder model.
 
 ## 📈 Model Architecture
-
 ```text
 Input Layer (User Ratings)
         ↓
